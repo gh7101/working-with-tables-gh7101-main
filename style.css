@@ -17,10 +17,12 @@ h1 p {
   text-decoration: underline;
 }
 
+
 table {
   width: auto;
   align-items: center;
   margin: 5rem;
+  margin-top: 0%;
 
 }
 
